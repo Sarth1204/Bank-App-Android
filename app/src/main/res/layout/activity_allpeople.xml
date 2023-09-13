@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".allpeople"
+    android:background="@drawable/back">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="405dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="100dp"
+            android:text="customers"
+            android:paddingBottom="20dp"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="35sp" />
+
+        <Button
+            android:id="@+id/one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Shubham Sarthak"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/two"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Drake"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/three"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Taylor"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+
+        <Button
+            android:id="@+id/four"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Ariana"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/five"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Shawn"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/six"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Kate"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/seven"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Adam"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/eight"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Phil"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+
+        <Button
+            android:id="@+id/nine"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Luke"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/ten"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Alex"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/eleven"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Gloria"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/twelve"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Joey"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+        <Button
+            android:id="@+id/thirteen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Chandler"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="8dp"/>
+
+        <Button
+            android:id="@+id/fourteen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:height="80dp"
+            android:background="@drawable/round_button"
+            android:drawableEnd="@drawable/pay_2"
+            android:text="Itachi"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+</ScrollView>
